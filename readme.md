@@ -2,13 +2,12 @@
 
 ## What is MKV
 
-MongoKV is a abstracted layer designed to make my DB calls a little easier, i am pushing it on GitHub incase it helps anyone else. 
+MongoKV is an abstracted layer designed to make my DB calls a little easier, I am pushing it on GitHub in case it helps anyone else.
 ___
 
 ## Constructor
 
-The constructor is needed to setup a basic connection with the database, i personally recommend that you set up a very tight scope on access and have a new class per collection. 
-
+The constructor is needed to set up a basic connection with the database, I recommend that you set up a very tight scope on access and have a new class per collection.
 
 #### Example
 ```
