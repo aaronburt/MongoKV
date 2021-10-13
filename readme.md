@@ -5,7 +5,7 @@
 MongoKV is a abstracted layer designed to make my DB calls a little easier, i am pushing it on GitHub incase it helps anyone else. 
 ___
 
-## Contructor
+## Constructor
 
 The constructor is needed to setup a basic connection with the database, i personally recommend that you set up a very tight scope on access and have a new class per collection. 
 
